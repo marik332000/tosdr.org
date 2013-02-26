@@ -23,7 +23,7 @@ To build:
 
 We develop on the gh-pages branch.
 
-If you push the gh-pages branch to github, then http://didnotread.github.com/tosdr.org/ will update. That's our staging server. To deploy to live, merge gh-pages to master, and
+If you push the gh-pages branch to github, then http://tosdr.github.com/tosdr.org/ will update. That's our staging server. To deploy to live, merge gh-pages to master, and
 
     git push 5apps master
 
