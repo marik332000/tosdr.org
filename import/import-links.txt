@@ -261,7 +261,7 @@
 #!topic/tosdr/bCI7WcjM3IY eff tosback2
 #!topic/tosdr/O1jol2PECRM EFF publishes report about companies practices regarding handing over data to governments
 #!topic/tosdr/fU3eItwFgss Crashplan Rating?
-#!topic/tosdr/7DtMBBjiss4 http://tos-dr.info/ doesn't work in Internet Explorer apparently?
+#!topic/tosdr/7DtMBBjiss4 http://tosdr.org/ doesn't work in Internet Explorer apparently?
 #!topic/tosdr/ah9und48Itw [Bad] You will not provide any false personal information on Facebook
 #!topic/tosdr/c42CUeENKvE Chrome Browser Plugin
 #!topic/tosdr/V_RVXG7TKEA Twitpic choice of law clause and choice of jurisdiction: Delaware
@@ -346,7 +346,7 @@
 #!topic/tosdr/m1E1vz7uIRs Mozilla's Privacy Icons
 #!topic/tosdr/KetdsIL9xWc Diaspora Pod Ratings
 #!topic/tosdr/avFQKZ3DY6k Fwd: criteria to (not) add
-#!topic/tosdr/eZ1SGvlU1Ng Re: [unhosted] first progress on http://tos-dr.info/
+#!topic/tosdr/eZ1SGvlU1Ng Re: [unhosted] first progress on http://tosdr.org/
 #!topic/tosdr/e0F4cavaJ4Q [bad] Your copyright license to Twitter does not end when you deactive your accont
 #!topic/tosdr/isCEdxL_sjg Article: What Facebook knows (data mining, etc;)
 #!topic/tosdr/UY0Yf2-hBl0 [Bad] Google - wikipedia page summarizing criticism of Google

@@ -49,7 +49,7 @@ MONEY OUT: 1900+600+250+8.5+49.27+34.57+84+276.89=3203.23
  * paypal: 8.50
     * (M) fee: 8.50
  * domain name registration: 49.27
-    * (M) tos-dr.info: 2.17 USD = 1.71
+    * (M) tosdr.org: 2.17 USD = 1.71
     * (M) tosdr.org: 7.17 USD = 5.65
     * (H) didnotread.org: 15
     * (H) cgupas.lu: 26.91
